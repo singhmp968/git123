@@ -4,7 +4,7 @@ import java.util.*;
 class Guvi {
   private static InputReader in;
   private static PrintWriter out;
-  public static int N,M;
+  public static int N,M;,hjvkgckgh n cycv ff kufy tdy jlguyr uf iytfj uf yit
   public static int[][] grid;
   public static boolean[][] vis;
 
